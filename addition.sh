@@ -1,5 +1,5 @@
 #!/bin/bash
  x=10
  y=20
- z=$($a+$b)
+ z=$((x+y))
  echo "Addition of two numbers is:$z"
